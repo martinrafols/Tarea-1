@@ -31,6 +31,7 @@ gen inmigrantes = 0
 replace inmigrantes=1 if p12>2 & p12<10
 collapse (sum) residentes inmigrantes, by(comuna)
 gen porcomuna = inmigrantes/residentes
+gsort - porcomuna
 table comuna, c(sum porcomuna)
 
 **PREGUNTA 2***
