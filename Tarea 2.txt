@@ -1,0 +1,13 @@
+1.
+1) Creo que es un dato en base al lugar de nacimiento y no la nacionalidad, lo que podría afectar la estadistica en si, ya que no son precisamente inmigrantes si no nacidos en el extranjeros, pudiendo ser bien chilenos, se podría mejorar simplemente preguntando de manera directa si es o no inmigrante.
+
+2) Estan buenas, creo que se le podría agregar más información de la cantidad de horas trabajadas.
+
+3) Independencia, Santiago, Colchane, Ollagüe, Putre, San Pedro de Atacama, Huara, Estación Central, Recoleta, Torres del Paine.
+
+2.
+1. 94%
+2.2,7%
+3.48,5%
+4.Si, de (0,6%), y si es significativo
+5. Si, y si es significativo.
